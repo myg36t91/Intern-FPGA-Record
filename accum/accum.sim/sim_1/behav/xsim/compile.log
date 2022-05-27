@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/Project/accum/accum.srcs/sources_1/new/accum.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module accum
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/Project/accum/accum.srcs/sim_1/new/accum_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module accum_tb
